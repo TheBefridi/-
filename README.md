@@ -62,7 +62,7 @@
 
 ### Быстрый старт
 
-1. **Скачайте последнюю версию** из раздела [Releases](https://github.com/TheBefridi/Zapret-Messenger-MAX/releases/tag/MAX)
+1. **Скачайте последнюю версию** из раздела [Releases](https://github.com/TheBefridi/Zapret-Messenger-MAX/releases/tag/v0.0.1)
 2. **Запустите от имени администратора** (обязательно!)
    - ПКМ по файлу → "Запуск от имени администратора"
 3. **Готово!** Программа готова к работе
