@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/badge/version-0.0.1%20Demo-blue)]()
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)]()
-[![License](https://img.shields.io/badge/license-MIT-green)]()
+[![License](https://github.com/TheBefridi/Zapret-Messenger-MAX/blob/byeMAX/LICENSE)]()
 
 Программа для полного контроля над экосистемой MAX. Блокируйте мессенджер полностью или настраивайте приватность выборочно — вы сами решаете, что разрешить, а что заблокировать.
 
