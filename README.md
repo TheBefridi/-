@@ -1,7 +1,7 @@
 # ️ Блокировщик Messenger MAX
 
-[![Version](https://img.shields.io/badge/version-0.0.1%20Demo-blue)]()
-[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)]()
+[![Version](https://img.shields.io/badge/version-0.0.1%20Demo-blue)](https://github.com/TheBefridi/Zapret-Messenger-MAX/releases/tag/MAX)
+[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)](https://github.com/TheBefridi/Zapret-Messenger-MAX/releases/tag/MAX)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/TheBefridi/Zapret-Messenger-MAX/blob/byeMAX/LICENSE)
 
 Программа для полного контроля над экосистемой MAX. Блокируйте мессенджер полностью или настраивайте приватность выборочно — вы сами решаете, что разрешить, а что заблокировать.
