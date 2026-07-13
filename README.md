@@ -1,4 +1,4 @@
-# ️ Блокировщик Мессенджер MAX
+# ️ Блокировщик Messenger MAX
 
 [![Version](https://img.shields.io/badge/version-0.0.1%20Demo-blue)]()
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)]()
