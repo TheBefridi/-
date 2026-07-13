@@ -4,6 +4,8 @@
 
 
 <img width="397" height="325" alt="Снимок экрана (26)" src="https://github.com/user-attachments/assets/5b463e5c-e51e-4add-b497-2cf088a3ed82" />
+
+
 Расширенные Настройки
 
 V0.0.1 Demo
