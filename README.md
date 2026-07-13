@@ -67,7 +67,7 @@
 
 ### Быстрый старт
 
-1. **Скачайте последнюю версию** из раздела [Releases](https://github.com/ВАШ_НИК/НАЗВАНИЕ_РЕПОЗИТОРИЯ/releases)
+1. **Скачайте последнюю версию** из раздела [Releases](https://github.com/TheBefridi/Zapret-Messenger-MAX/releases/tag/MAX)
 2. **Запустите от имени администратора** (обязательно!)
    - ПКМ по файлу → "Запуск от имени администратора"
 3. **Готово!** Программа готова к работе
@@ -78,10 +78,4 @@
 
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/ВАШ_НИК/НАЗВАНИЕ_РЕПОЗИТОРИЯ.git
-
-# Откройте проект в Visual Studio
-# Требуется .NET Framework 4.7.2 или выше
-
-# Соберите проект (Ctrl+Shift+B)
-# Готовый .exe файл будет в папке bin/Release
+git clone https://github.com/TheBefridi/Zapret-Messenger-MAX.git
